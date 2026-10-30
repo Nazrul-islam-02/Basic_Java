@@ -15,5 +15,12 @@ public class list {
        .toList();
         System.out.println(sortedList);
 
+
+        System.out.println(names.isEmpty());
+        names.add(0,"nazrul Islam");
+        names.add("Zim"); 
+        names.add(1,"Rimo Islam"); 
+        System.out.println(names);
+
     }
 }

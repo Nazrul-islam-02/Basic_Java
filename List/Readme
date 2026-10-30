@@ -1,1 +1,16 @@
-hello
+ArrayList হলো Dynamic Array implementation।
+
+List-এর গুরুত্বপূর্ণ Methods
+add()	নতুন element যোগ
+get()	Index দিয়ে element পাওয়া
+set()	Element update
+remove()	Element remove
+contains()	Element আছে কিনা
+size()	Total element
+isEmpty()	List empty কিনা
+clear()	সব element remove
+indexOf()	প্রথম index খোঁজা
+lastIndexOf()	শেষ index খোঁজা
+subList()	List-এর অংশ নেওয়া
+
+syntex---> ListName.Methods
